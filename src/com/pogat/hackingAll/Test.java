@@ -1,5 +1,5 @@
 
-package com.pogat.hackingAll
+package com.pogat.hackingAll;
 
 public class Test{
 
